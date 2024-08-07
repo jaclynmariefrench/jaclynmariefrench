@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 <!--
+
+https://github.com/user-attachments/assets/9d430eeb-0cc9-42ab-bdb9-0a77aceadb73
+
+
 **jaclynmariefrench/jaclynmariefrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
